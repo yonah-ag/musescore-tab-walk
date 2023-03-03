@@ -31,4 +31,6 @@ _Note: This plugin requires version 3.x of MuseScore._
  
 ![01](https://github.com/yonah-ag/musescore-tab-walk/blob/main/images/TabWalk01.png)
 
-The output shown above is from the sample Musescore file included. (Frere Jacques.mscx)
+The output shown above is from the sample Musescore file included.
+ 
+![04](https://github.com/yonah-ag/musescore-tab-walk/blob/main/images/TabWalk04.png)
