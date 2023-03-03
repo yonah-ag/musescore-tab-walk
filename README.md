@@ -17,13 +17,13 @@ See https://github.com/yonah-ag/musescore-tab-walk/blob/main/LICENSE
 _Note: This plugin requires version 3.x of MuseScore._
 
 + Download **TabWalk.qml** then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
-+ Optionally download **TabWalk.xlsx** formatter
++ Optionally download **TabWalk.xlsx** viewer
 
 ### Using the Plugin
 
 • Run the plugin from the plugins menu  
-• When complete, output file status is shown in a dialogue 
-• Open the TabWalk.csv in any text editor
+• When complete, output file status is shown in a dialogue  
+• Open TabWalk.csv in any text editor
 
 ![03](https://github.com/yonah-ag/musescore-tab-walk/blob/main/images/TabWalk03.png)
 
