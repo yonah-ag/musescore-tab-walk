@@ -1,8 +1,8 @@
-# MuseScore Tab Walk Plugin 1.0.0
+# MuseScore Tab Walk Plugin 1.1.0
 
 Walk through plugin elements in a TAB score  
 Output to file TabWalk.csv in user temp folder
- 
+
 ![02](https://github.com/yonah-ag/musescore-tab-walk/blob/main/images/TabWalk02.png)
 
 ### License
