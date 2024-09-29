@@ -1,4 +1,4 @@
-# MuseScore Tab Walk Plugin 1.1.0
+# MuseScore Tab Walk Plugin 1.1.4
 
 Walk through plugin elements in a TAB score  
 Output to file TabWalk.csv in user temp folder
